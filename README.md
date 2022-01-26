@@ -3,7 +3,8 @@
 
  <br></br>
 
-### Hi there 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 
 I build websites, write articles, design graphics, provide advice and sell digital products.
